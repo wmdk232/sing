@@ -83,23 +83,45 @@
       {"rule_set": "geosite-category-cryptocurrency", "outbound": "Wallet"},
       {"rule_set": "geosite-steam@cn", "outbound": "直连"},
       {"rule_set": "geosite-steam", "outbound": "Steam"},
-      {
+      
+{
   "domain_suffix": [
     "dmm.co.jp",
     "dmm.com",
     "dmmapis.com",
-    "digitaldmm.co.jp",
     "dmm-extension.com",
     "fanza.jp",
-    "mgstage.com",
-    "fc2.com",
     "caribbeancom.com",
+    "adult.contents.fc2.com",
+    "fc2.com",
     "hbox.jp",
-    "avmoo.website",
-    "avsox.click"
+    "mgstage.com",
+    "airav.io",
+    "avbase.net",
+    "avmoo.shop",
+    "avsox.click",
+    "javten.com",
+    "digitaldmm.co.jp"
   ],
   "outbound": "日本手动"
 },
+{
+  "domain_suffix": [
+    "jav321.com",
+    "javbus.com",
+    "javdb.com",
+    "javlibrary.com",
+    "freejavbt.com",
+    "missav123.com",
+    "7mmtv.sx",
+    "madou.club",
+    "madouqu.com",
+    "theporndb.net",
+    "xchina.co"
+  ],
+  "outbound": "香港手动"
+},
+
       {"rule_set": "geosite-geolocation-!cn", "outbound": "默认代理"},
       {"inbound": "mixed-in", "action": "resolve"},
       {"rule_set": "geoip-telegram", "outbound": "Telegram"},
