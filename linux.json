@@ -83,7 +83,13 @@
       {"rule_set": "geosite-category-cryptocurrency", "outbound": "Wallet"},
       {"rule_set": "geosite-steam@cn", "outbound": "直连"},
       {"rule_set": "geosite-steam", "outbound": "Steam"},
-      
+{
+  "domain": [
+    "www.abcmfmmmmm9y4e6snykhkead3nxekj07ouaqq28tcp4cx1yn7dbuagix6.org",
+    "mofacga.com"
+  ],
+  "outbound": "direct"
+}      
 {
   "domain_suffix": [
     "dmm.co.jp",
