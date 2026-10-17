@@ -88,9 +88,8 @@
     "www.abcmfmmmmm9y4e6snykhkead3nxekj07ouaqq28tcp4cx1yn7dbuagix6.org",
     "mofacga.com"
   ],
-  "action": "route",
   "outbound": "direct"
-}
+},
 {
   "domain_suffix": [
     "dmm.co.jp",
