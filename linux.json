@@ -87,11 +87,12 @@
         "domain": [
           "www.abcmfmmmmm9y4e6snykhkead3nxekj07ouaqq28tcp4cx1yn7dbuagix6.org",
           "mofacga.com",
-          "123pan.com",
-          "123684.com",
           "115.com",
           "115cdn.com",
-          "anxia.com"
+          "anxia.com",
+          "123pan.com",
+          "123pan.cn",
+          "123684.com"
         ],
         "outbound": "直连"
       },
